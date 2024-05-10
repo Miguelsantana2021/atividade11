@@ -6,8 +6,10 @@
 }
 :root{
     --main-baground:#1e293b;
+    --text-color:#f4f4f5;
 
 }
 body{
     background-color: var(--main-baground);
+    color: var(--text-color);
 }
